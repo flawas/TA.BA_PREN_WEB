@@ -36,7 +36,7 @@
                 <img src="includes/img/lukas.jpeg" class="card-img-top" alt="Bild Lukas">
                     <div class="card-body">
                     <h5 class="card-title">Lukas Agner</h5>
-                    <p class="card-text">Elektrotechnik<br></p>
+                    <p class="card-text">Elektrotechnik<br><br></p>
                 </div>
             </div>
         </div>
@@ -60,7 +60,7 @@
                 <img src="includes/img/alexander.jpeg" class="card-img-top" alt="Bild Alexander">
                     <div class="card-body">
                     <h5 class="card-title">Alexaner Reinhard</h5>
-                    <p class="card-text">Nachhaltigkeit</p>
+                    <p class="card-text">Nachhaltigkeit<br><br></p>
                     </div>
             </div>
         </div>
