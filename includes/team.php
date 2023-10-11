@@ -1,5 +1,5 @@
 <!-- Team 1 - Bootstrap Brain Component -->
-<section class="bg-light py-3 py-md-5 py-xl-8">
+<section class="bg-light py-3 py-md-5 py-xl-8" id="team">
   <div class="container">
     <div class="row justify-content-md-center">
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
