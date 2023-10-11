@@ -16,7 +16,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm overflow-hidden">
           <div class="card-body p-0">
             <figure class="m-0 p-0">
-              <img class="img-fluid" loading="lazy" src="img/julia.jpeg" alt="">
+              <img class="img-fluid" loading="lazy" src="includes/img/julia.jpeg" alt="">
               <figcaption class="m-0 p-4">
                 <h4 class="mb-1">Julia von Mühlenen</h4>
                 <p class="text-secondary mb-0">Projektleitung, Datenauswertung</p>
@@ -29,7 +29,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm overflow-hidden">
           <div class="card-body p-0">
             <figure class="m-0 p-0">
-              <img class="img-fluid" loading="lazy" src="img/silvan.jpeg" alt="">
+              <img class="img-fluid" loading="lazy" src="includes/img/silvan.jpeg" alt="">
               <figcaption class="m-0 p-4">
                 <h4 class="mb-1">Silvan Mangold</h4>
                 <p class="text-secondary mb-0">Datenauswertung, Risiko, Kommunikation (Stv.)</p>
@@ -42,7 +42,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm overflow-hidden">
           <div class="card-body p-0">
             <figure class="m-0 p-0">
-              <img class="img-fluid" loading="lazy" src="img/flavio.jpeg" alt="">
+              <img class="img-fluid" loading="lazy" src="includes/img/flavio.jpeg" alt="">
               <figcaption class="m-0 p-4">
                 <h4 class="mb-1">Flavio Waser</h4>
                 <p class="text-secondary mb-0">Datenauswertung, Finanzen</p>
@@ -55,7 +55,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm overflow-hidden">
           <div class="card-body p-0">
             <figure class="m-0 p-0">
-              <img class="img-fluid" loading="lazy" src="img/lukas.jpeg" alt="">
+              <img class="img-fluid" loading="lazy" src="includes/img/lukas.jpeg" alt="">
               <figcaption class="m-0 p-4">
                 <h4 class="mb-1">Lukas Agner</h4>
                 <p class="text-secondary mb-0">Elektrotechnik</p>
@@ -68,7 +68,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm overflow-hidden">
           <div class="card-body p-0">
             <figure class="m-0 p-0">
-              <img class="img-fluid" loading="lazy" src="img/richard.jpeg" alt="">
+              <img class="img-fluid" loading="lazy" src="includes/img/richard.jpeg" alt="">
               <figcaption class="m-0 p-4">
                 <h4 class="mb-1">Richard Schmassmann</h4>
                 <p class="text-secondary mb-0">Maschinenbau, Terminplanung, Kommunikation</p>
@@ -81,7 +81,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm overflow-hidden">
           <div class="card-body p-0">
             <figure class="m-0 p-0">
-              <img class="img-fluid" loading="lazy" src="img/alexander.jpeg" alt="">
+              <img class="img-fluid" loading="lazy" src="includes/img/alexander.jpeg" alt="">
               <figcaption class="m-0 p-4">
                 <h4 class="mb-1">Alexaner Reinhard</h4>
                 <p class="text-secondary mb-0">Nachhaltigkeit</p>
