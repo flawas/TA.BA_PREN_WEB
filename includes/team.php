@@ -1,6 +1,6 @@
 <div class="container text-center">
     <div class="row">
-        <div class="col">
+        <div class="col col-3">
             <div class="card">
                 <img src="includes/img/julia.jpeg" class="card-img-top" alt="Bild Julia">
                     <div class="card-body">
@@ -11,7 +11,7 @@
             </div>
         </div>
 
-        <div class="col">
+        <div class="col col-3">
             <div class="card">
                 <img src="includes/img/silvan.jpeg" class="card-img-top" alt="Bild Silvan">
                     <div class="card-body">
@@ -22,8 +22,8 @@
             </div>
         </div>
 
-        <div class="col">
-            <div class="card ">
+        <div class="col col-3">
+            <div class="card">
                 <img src="includes/img/flavio.jpeg" class="card-img-top" alt="Bild Flavio">
                     <div class="card-body">
                     <h5 class="card-title">Flavio Waser</h5>
@@ -33,7 +33,7 @@
             </div>
         </div>
 
-        <div class="col">
+        <div class="col col-3">
             <div class="card">
                 <img src="includes/img/lukas.jpeg" class="card-img-top" alt="Bild Lukas">
                     <div class="card-body">
@@ -45,8 +45,11 @@
             </div>
         </div>
     </div>
+
+    <br>
+
     <div class="row">
-        <div class="col">
+        <div class="col col-3">
             <div class="card">
                 <img src="includes/img/richard.jpeg" class="card-img-top" alt="Bild Richard">
                     <div class="card-body">
@@ -57,7 +60,7 @@
             </div>
         </div>
                 
-        <div class="col">
+        <div class="col col-3">
             <div class="card">
                 <img src="includes/img/alexander.jpeg" class="card-img-top" alt="Bild Alexander">
                     <div class="card-body">
@@ -67,6 +70,5 @@
                     </div>
             </div>
         </div>
-
     </div>
 </div>
