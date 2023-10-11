@@ -1,4 +1,4 @@
-<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+<footer class="align-items-left py-3 my-4 border-top">
 <div class="row">
 
 <div class="col-sm-4 md-4 mb-3">
