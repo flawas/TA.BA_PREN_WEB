@@ -1,4 +1,4 @@
-<div class="container text-center">
+<div class="container text-center" id="team">
     <div class="row">
 
         <div class="col col-3">
@@ -17,7 +17,6 @@
                     <div class="card-body">
                     <h5 class="card-title">Silvan Mangold</h5>
                     <p class="card-text">Datenauswertung, <br>Risiko, Kommunikation (Stv.)</p>
-                    <p class="card-text"></p>
                     </div>
             </div>
         </div>
@@ -37,7 +36,7 @@
                 <img src="includes/img/lukas.jpeg" class="card-img-top" alt="Bild Lukas">
                     <div class="card-body">
                     <h5 class="card-title">Lukas Agner</h5>
-                    <p class="card-text">Elektrotechnik</p>
+                    <p class="card-text">Elektrotechnik<br></p>
                 </div>
             </div>
         </div>
