@@ -1,6 +1,7 @@
 <?php
 
 include_once("includes/head.php");
+require ("config.php");
 
 ?>
 <html>
