@@ -1,8 +1,8 @@
 <?php
 
 include_once("includes/head.php");
-require ("config.php");
 
+require ("config.php");
 ?>
 <html>
     <body>
