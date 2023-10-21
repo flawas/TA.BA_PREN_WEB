@@ -1,4 +1,6 @@
 <div class="container text-center" id="team">
+    <h2 class="text-start">Team</h2>
+    <br>
     <div class="row">
 
         <div class="col-sm-4 md-4 mb-3">
