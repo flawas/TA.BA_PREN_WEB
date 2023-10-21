@@ -17,9 +17,8 @@ foreach ($result as $row){
   ?>
   <div class="col-sm-6 md-4 mb-3">
     <div class="card ">
-      <div class="card-header">Versuch <?php echo $row['id']; ?></div>
         <div class="card-body">
-          <h5 class="card-title"><?php echo $row['id'];?></h5>
+          <h5 class="card-title">Versuch <?php echo $row['id']; ?></h5>
           <p class="card-text"><?php echo $row['time'];?> Sekunden</p>
           <p class="card-text"><?php echo $row['energy'];?> kW Energieverbrauch</p>
       </div>
