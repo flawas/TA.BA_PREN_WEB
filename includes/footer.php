@@ -2,10 +2,7 @@
 <div class="row">
 
 <div class="col-sm-4 md-4 mb-3">
-
-    <div class="col-sm-4 md-4 mb-3">
-        <p class="mb-3 mb-md-0 text-body-secondary">© 2023 PREN Team 33 </p>
-    </div>
+    <p class="text-body-secondary">© 2023 PREN Team 33 </p>
 </div>
 
 </footer>
