@@ -20,7 +20,7 @@ foreach ($result as $row){
         <div class="card-body">
           <h5 class="card-title">Versuch <?php echo $row['id']; ?></h5>
           <p class="card-text"><?php echo $row['time'];?> Sekunden</p>
-          <p class="card-text"><?php echo $row['energy'];?> kW Energieverbrauch</p>
+          <p class="card-text"><?php echo $row['energy'];?> Ws Energieverbrauch</p>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Letztes Update <?php echo $row['datetime']; ?></small>
