@@ -9,7 +9,7 @@
 $db_connect = mysqli_connect(DATABASE_HOST, DATABASE_USERNAME, DATABASE_PASSWORD, DATABASE_NAME) or die(mysql_error());
 
 // Alle Sensoren ausgeben
-$sql = "SELECT * FROM `pren_web` ORDER BY id DESC LIMIT 3";
+$sql = "SELECT * FROM `pren_web` ORDER BY id DESC LIMIT 6";
 $result = $db_connect->query($sql)->fetch_all(MYSQLI_ASSOC);
 
 foreach ($result as $row){
