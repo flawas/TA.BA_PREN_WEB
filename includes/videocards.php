@@ -16,9 +16,8 @@
                       <div class="card ">
                           <div class="card-body">
                               <h5 class="card-title"><?php echo $file;?></h5>
-                              <p class="card-text">
                                   <?php
-                                  $url = "./includes/testversuche/$file";
+                                  $url = "/includes/testversuche/".$file;
                                   if(str_contains($file, ".mp4")) {
                                         ?>
                                       <video controls>
@@ -28,11 +27,10 @@
                                       <?php
                                   } else {
                                       ?>
-                                      <img src=<?php echo $url;?> alt="Testversuch">
+                                      <img src=<?php echo $url;?> alt="Testversuch" class="card-img-top">
                                           <?php
                                   }
                                   ?>
-                              </p>
                           </div>
                       </div>
                   </div>
