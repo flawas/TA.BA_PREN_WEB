@@ -20,7 +20,6 @@
       if (is_dir($dir)){
           if ($dh = opendir($dir)){
               while (($file = readdir($dh)) !== false){
-
                   ?>
                   <div class="col-sm-6 md-4 mb-3">
                       <div class="card ">
