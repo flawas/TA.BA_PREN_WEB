@@ -4,7 +4,7 @@
   <div class="row row-cols-1 row-cols-md-3">
 
       <?php
-      $dir = "./testversuche/";
+      $dir = "./includes/testversuche/";
 
       // Open a directory, and read its contents
       if (is_dir($dir)){
