@@ -14,7 +14,7 @@
           </div>
       </div>
       <?php
-      $dir = "./includes/testversuche/";
+      $dir = "/includes/testversuche/";
 
       // Open a directory, and read its contents
       if (is_dir($dir)){
