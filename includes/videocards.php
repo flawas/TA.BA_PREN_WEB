@@ -19,7 +19,7 @@
                               <p class="card-text">
                                   <?php
                                   if(str_contains($file, ".mp4")) {
-                                      $url = "./includes/testversuche/" + $file
+                                      $url = "./includes/testversuche/" . $file
                                       print($url)
                                         ?>
                                       <video controls>
