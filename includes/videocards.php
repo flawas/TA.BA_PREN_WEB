@@ -18,9 +18,8 @@
                               <h5 class="card-title"><?php echo $file;?></h5>
                               <p class="card-text">
                                   <?php
+                                  $url = "./includes/testversuche/$file";
                                   if(str_contains($file, ".mp4")) {
-                                      $url = "./includes/testversuche/$file";
-                                      print_r($url);
                                         ?>
                                       <video controls>
                                           <source src=<?php echo $url;?> type="video/mp4">
