@@ -12,7 +12,7 @@
                 <li class="nav-item"><a href="index.php" class="nav-link" aria-current="page">Home</a></li>
                 <li class="nav-item"><a href="#versuche" class="nav-link">Resultate</a></li>
                 <li class="nav-item"><a href="#team" class="nav-link" aria-current="page">Team</a></li>
-                <li class="nav-item"><a href="#video" class="nav-link">Videos aus Tests</a></li>
+                <li class="nav-item"><a href="#video" class="nav-link">Bilder und Videos</a></li>
             </ul>
         </header>
     </head>
