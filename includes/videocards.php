@@ -6,7 +6,10 @@
       <div class="col-sm-6 md-4 mb-3">
           <div class="card ">
               <div class="card-body">
-                  <h5 class="card-title">Titel</h5>
+                  <h5 class="card-title">Videos</h5>
+                  <a href="https://www.youtube.com/playlist?list=PLqY8vSuL5Inuxv5Muq0VT3_vF9mVPTKL_">
+                      <button type="button" class="btn btn-default">Zu den Videos</button>
+                  </a>
                   <div class="card-body">
                       <iframe width="420" height="315"
                               src="https://www.youtube.com/shorts/TJPef3Fk7PY">
