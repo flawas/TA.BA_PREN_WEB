@@ -31,26 +31,17 @@
                                   ?></h5>
                                   <?php
                                   $url = "/includes/testversuche/".$file;
-                                  if(str_contains($file, ".mp4")) {
-                                        ?>
-                                      <video controls>
-                                          <source src=<?php echo $url;?> type="video/mp4">
-                                          Your browser does not support the video tag.
-                                      </video>
-                                      <?php
-                                  } else {
-                                      ?>
-                                      <img src=<?php echo $url;?> alt="Testversuch" class="card-img-top">
-                                          <?php
-                                  }
                                   ?>
+                                  <img src=<?php echo $url;?> alt="Testversuch" class="card-img-top">
                           </div>
                       </div>
                   </div>
+                  <?php
+              }
+              ?>
       <?php
               }
               closedir($dh);
-          }
       }
       ?>
 
