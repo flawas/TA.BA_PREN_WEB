@@ -8,7 +8,7 @@
               <div class="card-body">
                   <h5 class="card-title">Videos</h5>
                   <a target="_blank" href="https://www.youtube.com/playlist?list=PLqY8vSuL5Inuxv5Muq0VT3_vF9mVPTKL_">
-                      <button type="button" class="btn btn-default">Zu den Videos</button>
+                      <button type="button" class="btn">Zu den Videos</button>
                   </a>
               </div>
           </div>
