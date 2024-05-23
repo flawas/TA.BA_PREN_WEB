@@ -12,6 +12,7 @@ require ("config.php");
         <div class="col-md-12 themed-grid-col"><?php include("includes/welcome.php"); ?></div>
         <div class="col-md-12 themed-grid-col"><?php include("includes/cards.php"); ?></div>
         <div class="col-md-12 themed-grid-col"><?php include("includes/team.php"); ?></div>
+        <div class="col-md-12 themed-grid-col"><?php include("includes/videocards.php"); ?></div>
     </div>
 
     </body>
