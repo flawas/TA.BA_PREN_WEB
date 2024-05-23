@@ -35,7 +35,6 @@
                       </div>
                   </div>
       <?php
-                  echo "filename:" . $file . "<br>";
               }
               closedir($dh);
           }
