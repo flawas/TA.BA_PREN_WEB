@@ -27,7 +27,7 @@
           <div class="card ">
               <div class="card-body">
                   <h5 class="card-title">Fräsen</h5>
-                  <img src="./includes/testversuche/Freaesen.jpg" alt="Fräsen" class="card-img-top">
+                  <img src="./includes/testversuche/Fraesen.jpg" alt="Fräsen" class="card-img-top">
               </div>
           </div>
       </div>
