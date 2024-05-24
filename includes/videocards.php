@@ -18,7 +18,34 @@
           <div class="card ">
               <div class="card-body">
                   <h5 class="card-title">Erster Gesamttest</h5>
-                  <img src="./includes/testversuche/Erster_Gesamttest.jpg" alt="Erster Testversuch">
+                  <img src="./includes/testversuche/Erster_Gesamttest.jpg" alt="Erster Testversuch" class="card-img-top">
+              </div>
+          </div>
+      </div>
+
+      <div class="col-sm-6 md-4 mb-3">
+          <div class="card ">
+              <div class="card-body">
+                  <h5 class="card-title">Fräsen</h5>
+                  <img src="./includes/testversuche/Freaesen.jpg" alt="Fräsen" class="card-img-top">
+              </div>
+          </div>
+      </div>
+
+      <div class="col-sm-6 md-4 mb-3">
+          <div class="card ">
+              <div class="card-body">
+                  <h5 class="card-title">Test Hebelmechanismus</h5>
+                  <img src="./includes/testversuche/Test_Hebelmechanismus.jpg" alt="Test Hebelmechanismus" class="card-img-top">
+              </div>
+          </div>
+      </div>
+
+      <div class="col-sm-6 md-4 mb-3">
+          <div class="card ">
+              <div class="card-body">
+                  <h5 class="card-title">Erster Gesamttest</h5>
+                  <img src="./includes/testversuche/Werkstatt.jpg" alt="Werkstatt" class="card-img-top">
               </div>
           </div>
       </div>
