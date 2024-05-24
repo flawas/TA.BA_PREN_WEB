@@ -13,36 +13,15 @@
               </div>
           </div>
       </div>
-      <?php
-      $dir = "./includes/testversuche/";
 
-      // Open a directory, and read its contents
-      if (is_dir($dir)){
-          if ($dh = opendir($dir)){
-              while (($file = readdir($dh)) !== false){
-                  ?>
-                  <div class="col-sm-6 md-4 mb-3">
-                      <div class="card ">
-                          <div class="card-body">
-                              <h5 class="card-title"><?php
-                                  $title = explode(".",$file);
-                                  echo $title[0];
-                                  ?></h5>
-                                  <?php
-                                  $url = "/includes/testversuche/".$file;
-                                  ?>
-                                  <img src=<?php echo $url;?> alt="Testversuch" class="card-img-top">
-                          </div>
-                      </div>
-                  </div>
-                  <?php
-              }
-              ?>
-      <?php
-              }
-              closedir($dh);
-      }
-      ?>
+      <div class="col-sm-6 md-4 mb-3">
+          <div class="card ">
+              <div class="card-body">
+                  <h5 class="card-title">Erster Gesamttest</h5>
+                  <img src="./includes/testversuche/Erster_Gesamttest.jpg" alt="Erster Testversuch">
+              </div>
+          </div>
+      </div>
 
 
   </div>
