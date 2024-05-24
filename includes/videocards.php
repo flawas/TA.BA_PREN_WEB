@@ -6,17 +6,6 @@
       <div class="col-sm-6 md-4 mb-3">
           <div class="card ">
               <div class="card-body">
-                  <h5 class="card-title">Videos</h5>
-                  <a target="_blank" href="https://www.youtube.com/playlist?list=PLqY8vSuL5Inuxv5Muq0VT3_vF9mVPTKL_">
-                      <button type="button" class="btn">Zu den Videos</button>
-                  </a>
-              </div>
-          </div>
-      </div>
-
-      <div class="col-sm-6 md-4 mb-3">
-          <div class="card ">
-              <div class="card-body">
                   <h5 class="card-title">Erster Gesamttest</h5>
                   <img src="./includes/testversuche/Erster_Gesamttest.jpg" alt="Erster Testversuch" class="card-img-top">
               </div>
@@ -50,6 +39,16 @@
           </div>
       </div>
 
+      <div class="col-sm-6 md-4 mb-3">
+          <div class="card ">
+              <div class="card-body">
+                  <h5 class="card-title">Videos</h5>
+                  <a target="_blank" href="https://www.youtube.com/playlist?list=PLqY8vSuL5Inuxv5Muq0VT3_vF9mVPTKL_">
+                      <button type="button" class="btn">Zu den Videos</button>
+                  </a>
+              </div>
+          </div>
+      </div>
 
   </div>
 </div>
